@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <Header itemOne="Home" itemTwo="News" itemThree="About" />
-      <Content heading="Welcome to React-News App" />
+      <Content heading="Welcome To React-News App" />
       <Footer copyright="2020" founder="Isfhan Ahmed" />
     </div>
   );
